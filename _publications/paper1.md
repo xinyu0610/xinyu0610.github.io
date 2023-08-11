@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper1
 excerpt: 'This paper tries to improve the automatic patent classification method and accurately match patent applications with one or more suitable IPC classification numbers.'
 date: 2022-03
-venue: 'Data Analysis and Knowledge Discovery
+venue: 'Data Analysis and Knowledge Discovery'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
