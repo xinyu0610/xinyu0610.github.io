@@ -4,7 +4,7 @@ collection: publications
 permalink: [/publication/paper1](https://www.webofscience.com/wos/alldb/full-record/CSCD:7189628)
 excerpt: 'This paper tries to improve the automatic patent classification method and accurately match patent applications with one or more suitable IPC classification numbers.'
 date: 2022-03
-venue: 'Data Analysis and Knowledge Discovery
+venue: 'Data Analysis and Knowledge Discovery'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
 We constructed a large-scale Chinese patent dataset (CNPatents) and used the first four digits of IPC classification numbers as
