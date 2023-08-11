@@ -1,7 +1,7 @@
 ---
 title: "Multi-label Patent Classification with Pre-training Model"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/paper1
 excerpt: 'This paper tries to improve the automatic patent classification method and accurately match patent applications with one or more suitable IPC classification numbers.'
 date: 2022-03
 venue: 'Data Analysis and Knowledge Discovery'
