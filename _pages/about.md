@@ -13,8 +13,24 @@ I am a first-year doctoral student in the [School of Information Management](htt
 My passion for information has led me to specialize in text semantic analysis, document information extraction and organization, and knowledge graph research. These areas have the potential to revolutionize how we understand, manage, and access information in the digital age.
 
 
-Pubulications:
+Pubulication:
 
-1. [Multi-label Patent Classification with Pre-training Model](https://www.webofscience.com/wos/alldb/full-record/CSCD:7189628) (First Author)
-2. [Entity Recognition and Labeling for Medical Literature Based on Neural Network](https://www.webofscience.com/wos/alldb/full-record/CSCD:7321735) (Second Author)
+① [Multi-label Patent Classification with Pre-training Model. Data Analysis and Knowledge Discovery, 2022, 6(2/3): 129-137.](https://www.webofscience.com/wos/alldb/full-record/CSCD:7189628) (First author, in Chinese)
+② [Entity Recognition and Labeling for Medical Literature Based on Neural Network. Data Analysis and Knowledge Discovery, 2022, 6(9): 100-112.](https://www.webofscience.com/wos/alldb/full-record/CSCD:7321735) (Second author, in Chinese)
+
+Meeting:
+
+① Patent Semantic Similarity Calculation by Fusing Synonyms Database. Proceeding in the 22nd China National Conference on Computational Linguistics. (First author, in Chinese)
+
+Work under review:
+
+① Research on Cross-lingual Multi-label Patent Classification based on Pre-trained Model. (Third author)
+② Enhancing Patent Technical Similarity Assessment through Semantic Knowledge Graphs. (Second author)
+
+Work in progress:
+
+① A Siamese Adversarial Neural Network for Cross-Lingual Text Retrieval.
+
+
+
 
