@@ -18,5 +18,5 @@ My passion for information has led me to specialize in text semantic analysis, d
 
 Pubulications:
 
-1. [Multi-label Patent Classification with Pre-training Model] (https://www.webofscience.com/wos/alldb/full-record/CSCD:7189628) (First Author)
-2. [Entity Recognition and Labeling for Medical Literature Based on Neural Network] (https://www.webofscience.com/wos/alldb/full-record/CSCD:7321735) (Second Author)
+1. [Multi-label Patent Classification with Pre-training Model](https://www.webofscience.com/wos/alldb/full-record/CSCD:7189628) (First Author)
+2. [Entity Recognition and Labeling for Medical Literature Based on Neural Network](https://www.webofscience.com/wos/alldb/full-record/CSCD:7321735) (Second Author)
