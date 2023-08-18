@@ -25,7 +25,7 @@ Supervisor: Prof.Yonghe Lu.
 2019.9-2022.6 **Master of Library and Information Science**, Sun Yat-sen University, Guangzhou, China. 
 Supervisor: Prof.Yonghe Lu.
 
-2014.9-2018.6 Bachelor of Engineering. Major in **Computer science**, Harbin Institute of Technology, Harbin, China.
+2014.9-2018.6 Bachelor of Engineering. Major in **Computer Science**, Harbin Institute of Technology, Harbin, China.
 
 ------------------------------------------------------------------------------------------  
 **Pubulication:**
