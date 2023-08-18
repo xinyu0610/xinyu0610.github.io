@@ -17,7 +17,8 @@ I am looking for a one-year joint doctoral training opportunity, thank you very 
 Email : tongxy7@mail2.sysu.edu.cn
 
 ------------------------------------------------------------------------------------------
-**Education**
+**Education:**
+
 2022.9-Presnent Doctoral degree candidate, Major in **Information Science**, Sun Yat-sen University, Guangzhou, China.
 Supervisor: Prof.Yonghe Lu.
 2019.9-2022.6 **Master of Library and Information Science**, Sun Yat-sen University, Guangzhou, China. 
