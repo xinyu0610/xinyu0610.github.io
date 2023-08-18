@@ -20,11 +20,9 @@ Email : tongxy7@mail2.sysu.edu.cn
 **Education:**
 
 2022.9-Presnent Doctoral degree candidate, Major in **Information Science**, Sun Yat-sen University, Guangzhou, China.
-
 Supervisor: Prof.Yonghe Lu.
 
 2019.9-2022.6 **Master of Library and Information Science**, Sun Yat-sen University, Guangzhou, China. 
-
 Supervisor: Prof.Yonghe Lu.
 
 2014.9-2018.6 Bachelor of Engineering. Major in **Computer science**, Harbin Institute of Technology, Harbin, China.
@@ -38,18 +36,19 @@ Supervisor: Prof.Yonghe Lu.
 ------------------------------------------------------------------------------------------
 **Meeting:**
 
-1. Patent Semantic Similarity Calculation by Fusing Synonyms Database. Proceeding in the 22nd China National Conference on Computational Linguistics. (First author, in Chinese)
+1. Patent Semantic Similarity Calculation by Fusing Synonyms Database. Proceeding in the 22nd China National Conference on Computational Linguistics. (First author, presentation in Chinese)
+2. Study on the Scenario-based Application of ChatGPT and Its Risk Avoidance Strategies from the Perspective of Information Literacy. IFLA WLIC 2023. (Second & Corresponding author, presentation in English)
 
 ------------------------------------------------------------------------------------------
 **Work under review:**
 
-1. Research on Cross-lingual Multi-label Patent Classification based on Pre-trained Model. (Third author)
-2. Enhancing Patent Technical Similarity Assessment through Semantic Knowledge Graphs. (Second author)
+1. Research on Cross-lingual Multi-label Patent Classification based on Pre-trained Model. (Third author, in English)
+2. Enhancing Patent Technical Similarity Assessment through Semantic Knowledge Graphs. (Second author, in Engilsh)
 
 ------------------------------------------------------------------------------------------
 **Work in progress:**
 
-1. A Siamese Adversarial Neural Network for Cross-Lingual Text Retrieval. (First author)
+1. A Siamese Adversarial Neural Network for Cross-Lingual Text Retrieval. (First author, in English)
 
 
 
