@@ -12,7 +12,7 @@ I am a first-year doctoral student in the [School of Information Management](htt
 
 My passion for information has led me to specialize in text semantic analysis, document information extraction and organization, and knowledge graph research. These areas have the potential to revolutionize how we understand, manage, and access information in the digital age.  
 
-I am looking for a one-year joint doctoral training opportunity, thank you very much if you can contact me!
+I am looking for a one-year (from 2024.9 to 2025.9) joint doctoral training opportunity, thank you very much if you can contact me!
 
 Email : tongxy7@mail2.sysu.edu.cn
 
