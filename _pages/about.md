@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. candidate in the [School of Information Management](https://ischool.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) Under the guidance of [Prof. Yonghe Lu](https://ischool.sysu.edu.cn/zh-hans/teacher/luyonghe). 
+I am a second-year Ph.D. candidate in the [School of Information Management](https://ischool.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/). Under the guidance of [Prof. Yonghe Lu](https://ischool.sysu.edu.cn/zh-hans/teacher/luyonghe). 
 
 My passion for information has led me to specialize in patent semantic analysis, document information extraction and organization, and knowledge graph research. These areas have the potential to revolutionize how we understand, manage, and access information in the digital age.  
 
@@ -24,7 +24,7 @@ Supervisor: Prof.Yonghe Lu.
 2014.9 - 2018.6 Bachelor of Engineering. Major in **Computer Science**, Harbin Institute of Technology, Harbin, China.
 
 ------------------------------------------------------------------------------------------  
-**Pubulication:**
+**Journal articles:**
 
 1. [Multi-label Patent Classification with Pre-training Model.](https://www.webofscience.com/wos/alldb/full-record/CSCD:7189628) Data Analysis and Knowledge Discovery, 2022, 6(2/3): 129-137. (First author, in Chinese)
 2. [Entity Recognition and Labeling for Medical Literature Based on Neural Network.](https://www.webofscience.com/wos/alldb/full-record/CSCD:7321735) Data Analysis and Knowledge Discovery, 2022, 6(9): 100-112. (Second author, in Chinese)
@@ -32,7 +32,7 @@ Supervisor: Prof.Yonghe Lu.
 4. [Research on cross-lingual multi-label patent classification based on pre-trained model.](https://link.springer.com/article/10.1007/s11192-024-05024-0?utm_source=rct_congratemailt). Scientometrics 129, 3067–3087 (2024). (Third author, in English)
 
 ------------------------------------------------------------------------------------------
-**Meeting:**
+**Confrence papers:**
 
 1. Patent Semantic Similarity Calculation by Fusing Synonyms Database. Proceeding in the 22nd China National Conference on Computational Linguistics. (First author, presentation in Chinese)
 2. Study on the Scenario-based Application of ChatGPT and Its Risk Avoidance Strategies from the Perspective of Information Literacy. IFLA WLIC 2023. (Second & Corresponding author, presentation in English)
@@ -41,7 +41,9 @@ Supervisor: Prof.Yonghe Lu.
 ------------------------------------------------------------------------------------------
 **Work in progress:**
 
-1. A Siamese Adversarial Neural Network for Cross-Lingual Text Retrieval. (First author, in English)
+1. A Siamese Adversarial Neural Network for Cross-Language Patent Retrieval.
+2. Cross-Language Patent Classification Based on Transfer Learning with Voting Mechanism.
+3. Patent Representation Optimization Based on Unsupervised Contrastive Learning.
 
 
 
