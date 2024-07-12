@@ -13,6 +13,7 @@ I am a second-year doctoral student in the [School of Information Management](ht
 My passion for information has led me to specialize in patent semantic analysis, document information extraction and organization, and knowledge graph research. These areas have the potential to revolutionize how we understand, manage, and access information in the digital age.  
 
 Email : tongxy7@mail2.sysu.edu.cn
+You can find my publications on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=RZ3NyYUAAAAJ&gmla=AKKJWFc3fLKZL1rghFTwUnKHxxrfv_q4ThvQ610gvwcjm8Jg3OcktEG5eegdvV0hlYyvYfR_VzmSOvhehO2y68faLurN7HB7UTlrGzrCGtU_BB6QNQ)
 
 ------------------------------------------------------------------------------------------
 **Education:**
