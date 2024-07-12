@@ -13,6 +13,7 @@ I am a second-year doctoral student in the [School of Information Management](ht
 My passion for information has led me to specialize in patent semantic analysis, document information extraction and organization, and knowledge graph research. These areas have the potential to revolutionize how we understand, manage, and access information in the digital age.  
 
 Email : tongxy7@mail2.sysu.edu.cn
+
 You can find my publications on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=RZ3NyYUAAAAJ&gmla=AKKJWFc3fLKZL1rghFTwUnKHxxrfv_q4ThvQ610gvwcjm8Jg3OcktEG5eegdvV0hlYyvYfR_VzmSOvhehO2y68faLurN7HB7UTlrGzrCGtU_BB6QNQ)
 
 ------------------------------------------------------------------------------------------
@@ -40,6 +41,7 @@ Supervisor: Prof.Yonghe Lu.
 1. Patent Semantic Similarity Calculation by Fusing Synonyms Database. Proceeding in the 22nd China National Conference on Computational Linguistics. (First author, presentation in Chinese)
 2. Study on the Scenario-based Application of ChatGPT and Its Risk Avoidance Strategies from the Perspective of Information Literacy. IFLA WLIC 2023. (Second & Corresponding author, presentation in English)
 3. Multi-Task Classification Model for Muitilingual Patents. PatentSemTech’24: 5th Workshop on Patent Text Mining and Semantic Technologies. (Co-first author, presentation in English)
+
 ------------------------------------------------------------------------------------------
 **Work in progress:**
 
