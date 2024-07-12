@@ -30,19 +30,15 @@ Supervisor: Prof.Yonghe Lu.
 
 1. [Multi-label Patent Classification with Pre-training Model.](https://www.webofscience.com/wos/alldb/full-record/CSCD:7189628) Data Analysis and Knowledge Discovery, 2022, 6(2/3): 129-137. (First author, in Chinese)
 2. [Entity Recognition and Labeling for Medical Literature Based on Neural Network.](https://www.webofscience.com/wos/alldb/full-record/CSCD:7321735) Data Analysis and Knowledge Discovery, 2022, 6(9): 100-112. (Second author, in Chinese)
+3. [Knowledge graph enhanced citation recommendation model for patent examiners.](https://link.springer.com/article/10.1007/s11192-024-04966-9). Scientometrics 129, 2181–2203 (2024). (Second author, in English)
+4. [Research on cross-lingual multi-label patent classification based on pre-trained model.](https://link.springer.com/article/10.1007/s11192-024-05024-0?utm_source=rct_congratemailt). Scientometrics 129, 3067–3087 (2024). (Third author, in English)
 
 ------------------------------------------------------------------------------------------
 **Meeting:**
 
 1. Patent Semantic Similarity Calculation by Fusing Synonyms Database. Proceeding in the 22nd China National Conference on Computational Linguistics. (First author, presentation in Chinese)
 2. Study on the Scenario-based Application of ChatGPT and Its Risk Avoidance Strategies from the Perspective of Information Literacy. IFLA WLIC 2023. (Second & Corresponding author, presentation in English)
-
-------------------------------------------------------------------------------------------
-**Work under review:**
-
-1. Research on Cross-lingual Multi-label Patent Classification based on Pre-trained Model. (Third author, in English)
-2. Enhancing Patent Technical Similarity Assessment through Semantic Knowledge Graphs. (Second author, in Engilsh)
-
+3. Multi-Task Classification Model for Muitilingual Patents. PatentSemTech’24: 5th Workshop on Patent Text Mining and Semantic Technologies. (Co-first author, presentation in English)
 ------------------------------------------------------------------------------------------
 **Work in progress:**
 
