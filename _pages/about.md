@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year doctoral student in the [School of Information Management](https://ischool.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) under the guidance of [Prof. Yonghe Lu](https://ischool.sysu.edu.cn/zh-hans/teacher/luyonghe). 
+I am a second-year Ph.D. candidate in the [School of Information Management](https://ischool.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) Under the guidance of [Prof. Yonghe Lu](https://ischool.sysu.edu.cn/zh-hans/teacher/luyonghe). 
 
 My passion for information has led me to specialize in patent semantic analysis, document information extraction and organization, and knowledge graph research. These areas have the potential to revolutionize how we understand, manage, and access information in the digital age.  
 
 ------------------------------------------------------------------------------------------
 **Education:**
 
-2022.9 - Now Doctoral degree candidate, Major in **Information Science**, Sun Yat-sen University, Guangzhou, China.
+2022.9 - Now Ph.D. degree candidate, Major in **Information Science**, Sun Yat-sen University, Guangzhou, China.
 Supervisor: Prof.Yonghe Lu.
 
 2019.9 - 2022.6 **Master of Library and Information Science**, Sun Yat-sen University, Guangzhou, China. 
