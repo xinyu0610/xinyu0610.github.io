@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xinyu Tong"
+title                    : "Xinyu TONG"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Xinyu TONG"
 description              : &description "personal description"
 url                      : https://xinyu0610.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xinyu0610/xinyu0610.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  "1122.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_                 :  # Open Graph/Twitter default site 
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -86,7 +86,7 @@ author:
   location         : "Guangzhou, China"
   employer         : "Sun Yat-sen University"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=RZ3NyYUAAAAJ&gmla=AKKJWFc3fLKZL1rghFTwUnKHxxrfv_q4ThvQ610gvwcjm8Jg3OcktEG5eegdvV0hlYyvYfR_VzmSOvhehO2y68faLurN7HB7UTlrGzrCGtU_BB6QNQ"
   email            : tongxy7@mail2.sysu.edu.cn
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  # github           : "academicpages"
+  github           : "https://github.com/xinyu0610"
   google_plus      :
   keybase          :
   instagram        :
   # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "linkedin.com/in/xinyu-tong-4093b9290"
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
